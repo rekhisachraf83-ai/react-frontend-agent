@@ -109,6 +109,7 @@ Configuration des Model Context Protocol Servers:
 
 ### `.github/copilot-setup-steps.yml`
 Configuration d'exécution:
+
 - Timeout (30 minutes)
 - Steps de setup
 - Hooks de validation
